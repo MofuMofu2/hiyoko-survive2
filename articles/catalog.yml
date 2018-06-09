@@ -20,6 +20,6 @@ APPENDIX:
 
 POSTDEF:
   # # 終わりに（担当：もふもふ）
-  # - end.re
+  - end.re
   # 著者一覧
   - editor.re
