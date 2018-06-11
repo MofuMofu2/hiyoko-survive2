@@ -1,17 +1,17 @@
 {
-  "name": "C94-hiyoko-surviveBlackLoad",
+  "name": "C94-hiyoko-survive2",
   "version": "0.0.1",
   "private": true,
   "description": "",
   "main": "Gruntfile.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/onestop-techbook/C94-hiyoko-surviveBlackLoad.git"
+    "url": "git+https://github.com/onestop-techbook/C94-hiyoko-survive2.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/onestop-techbook/C94-hiyoko-surviveBlackLoad/issues"
+    "url": "https://github.com/onestop-techbook/C94-hiyoko-survive2/issues"
   },
   "homepage": "",
   "engines": {
