@@ -1,21 +1,24 @@
 PREDEF:
-    # はじめに（担当：もふもふ）
+  # はじめに
   - introduction.re
 CHAPS:
-
-  # 章の追加、改変は自由ですから、どんどん書いていきましょう
-  # ひよこエンジニアの学び始め方（担当：もふもふ）
-  - hiyoko-howToStart.re
-  # 技術Podcastを聞いてみよう（担当：もふもふ）
-  # 勉強会やカンファレンスの有意義な過ごし方（担当：もふもふ）
-
-  # などなど
-
+  # 立場の違いと罠
+  - trap.re
+  # 何を学ぶかの決定
+  - decide-study-things.re
+  # 基礎心理学の観点から人間が「学ぶ」ことを考える
+  - psychology.re
+  # 学び始め方：タマゴ時代
+  - egg.re
+  # 学びの進め方：チョットワカル時代
+  - chyotto-wakaru.re
+  # 学びの深め方：走り出す時代
+  - run.re
 
 APPENDIX:
 
 POSTDEF:
-  # # 終わりに（担当：もふもふ）
+  # # 終わりに
   - end.re
-  # 著者一覧
+  # 連絡先
   - editor.re
